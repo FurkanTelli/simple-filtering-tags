@@ -1,0 +1,18 @@
+
+
+.card-body {
+    background-color: hsl(180, 31%, 95%);
+    border-radius: 1rem;
+    margin: 1rem;
+    box-shadow: 1px 1px 10px hsl(180, 21%, 67%);
+}
+
+.card-body img {
+    width: 5vw;
+    margin-right:1rem;  
+}
+
+.tags p {
+    font-size: 12px;
+    margin: 0 2px 0 2px;
+}

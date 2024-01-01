@@ -1,0 +1,84 @@
+{
+  "developers": [
+    {
+      "imgUrl": "../images/photosnap.svg",
+      "imgName":"Photosnap",
+      "developerLevel": "SeniorFrontEnd Developer",
+      "timePeriod": "Full Time",
+      "place": "USA Only",
+      "skills":["Frontend","Senior", "HTML", "CSS", "Javascript"]
+    },
+    {
+      "imgUrl": "../images/manage.svg",
+      "imgName":"Manage",
+      "developerLevel": "Fullstack Developer",
+      "timePeriod": "Part Time",
+      "place": "Remote",
+      "skills": ["Fullstack", "Midweight", "Pyhton", "React"]
+    },
+    {
+      "imgUrl": "../images/account.svg",
+      "imgName":"Account",
+      "developerLevel": "Junior Frontend Developer",
+      "timePeriod": "Part Time",
+      "place": "USA Only",
+      "skills": ["Frontend","Junior", "React", "Sass", "Javascript"]
+    },
+    {
+        "imgUrl":"../images/myhome.svg",
+        "imgName":"My Home",
+        "developerLevel":"Junior Frontend Develope",
+        "timePeriod":"Contract",
+        "place":"USA Only",
+        "skills": ["Frontend","Junior","CSS","Javascript"]
+    },
+    {
+        "imgUrl":"../images/loop-studios.svg",
+        "imgName":"Loop Studios",
+        "developerLevel":"Software Engineer",
+        "timePeriod":"Full Time",
+        "place":"Worldwide",
+        "skills": ["Fullstack", "Midweight", "Javascript","Sass","Ruby"]
+    },
+    {
+        "imgUrl":"../images/faceit.svg",
+        "imgName":"FaceIt",
+        "developerLevel":"Junior Backend Developer",
+        "timePeriod":"Full Time",
+        "place":"UK Only",
+        "skills": ["Backend", "Junior", "Ruby", "RoR"]
+    },
+    {
+        "imgUrl":"../images/shortly.svg",
+        "imgName":"Shorty",
+        "developerLevel":"Junior Developer",
+        "timePeriod":"Full Time",
+        "place":"Worldwide",
+        "skills": ["Frontend", "Junior", "HTML", "Sass", "Javascript"]
+    },
+    {
+        "imgUrl":"../images/insure.svg",
+        "imgName":"Insure",
+        "developerLevel":"Junior Frontend Developer",
+        "timePeriod":"Full Time",
+        "place":"USA Only",
+        "skills": ["Fullstack", "Junior", "Vue", "Javascript", "Sass"]
+    },
+    {
+        "imgUrl":"../images/eyecam-co.svg",
+        "imgName":"Eyecam-Co",
+        "developerLevel":"Fullstack Engineer",
+        "timePeriod":"Full Time",
+        "place":"Worldwide",
+        "skills": ["Fullstack", "Midweight", "Javascript", "Django", "Pyhton"]
+    },
+    {
+        "imgUrl":"../images/the-air-filter-company.svg",
+        "imgName":"The Air Filter Company",
+        "developerLevel":"Front-end Dev",
+        "timePeriod":"Part Time",
+        "place":"Worldwide",
+        "skills": ["Fullstack", "Junior", "React", "Sass", "Javascript"]
+    }
+  ]
+}

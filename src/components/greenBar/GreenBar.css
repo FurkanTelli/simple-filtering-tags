@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.green-header {
+    display: flex;
+    background-color: white;
+    width: 100vw;
+    height: 20vh;
+    box-shadow: 1px 9px 10px hsl(180, 21%, 67%);
+}
+
+.green-header > img {
+    background:  hsl(180, 29%, 50%);
+    width: 100vw;
+}
